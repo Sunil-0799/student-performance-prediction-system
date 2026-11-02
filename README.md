@@ -6,8 +6,29 @@ students' exam scores based on their academic
 performance and study-related factors.
 
 ## Dataset
-- Total Records: 10,000
-- Total Features: 8
+
+The dataset used in this project contains 10,000 student records and 8 columns.
+
+### Dataset Features
+- Study Hours
+- Attendance
+- Sleep Hours
+- Internet Usage
+- Assignments Completed
+- Previous Score
+- Exam Score
+- Placement Status
+
+### Dataset Download
+
+Download the dataset from the following source:
+
+[Click here to download the dataset]((https://www.kaggle.com/datasets/ayeshaseherr/student-performance))
+
+
+**Dataset Shape:** 10,000 rows × 8 columns
+
+**Data Quality:**
 - Missing Values: 0
 - Duplicate Records: 0
 
